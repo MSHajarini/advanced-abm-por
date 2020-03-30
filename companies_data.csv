@@ -1,0 +1,11 @@
+Code,Company,Bio refined per year (MT),Fossil refined per year (MT),Production
+0,Neste,1040000,0,"NEXBTL, Bio LPG"
+1,Biopetrol Rotterdam BV,400000,0,"Biodiesel, refned glycerine"
+2,Biopetrol Pernis BV,250000,0,"Biodiesel, refned glycerine"
+3,Abengoa,480000,0,Bioethanol
+4,-,0,0,-
+5,Shell Nederland Rafnaderij,0,52608000,Fossil
+6,Esso Nederland (ExxonMobil),0,46860000,Fossil
+7,BP Rafnaderij Rotterdam,0,33420000,Fossil
+8,Koch HC Partnership (Vital),0,13313000,Fossil
+9,Gunvor Petroleum Rotterdam,0,9753000,Fossil
